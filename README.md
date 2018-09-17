@@ -44,7 +44,7 @@ Is better with a line break!
 - [ ] They can come in handy to get things done. 
 
 ```diff
-Can only highlight green in here
++ Can only highlight green in here
 
 - Can only highlight red in here
 ```
@@ -59,6 +59,3 @@ function hello(name) {
 ```
  You can do emojis... :neutral_face: If you're interested in that sort of thing... :laughing: 
  
- 
- ```diff
-- I'm happy 
