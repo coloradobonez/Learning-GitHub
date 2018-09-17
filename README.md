@@ -43,10 +43,14 @@ Is better with a line break!
 - [x] Don't forget task lists! 
 - [ ] They can come in handy to get things done. 
 
-
 ```diff
-+ this text is highlighted in green
-- this text is highlighted in red
++ Can only highlight green in here
+
+- Can only highlight red in here
+```
+```diff
++ She is happy
+- She is unhappy
 ```
 ```javascript
 function hello(name) {
