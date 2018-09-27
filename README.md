@@ -29,7 +29,16 @@ Is better with a line break!
 
 [Link](linkdotcom)
 
-<details> <summary>Drop Down Menu</summary> </details>
+<details> <summary>Drop Down Menu</summary>
+
+Nothing in here matters.
+</details>
+</br>
+<details open> <summary>Open Drop Down Menu</summary>
+
+But this is kind of cool. 
+</details>
+</br>
 
 - lists
   - lists
