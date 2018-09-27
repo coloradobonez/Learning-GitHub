@@ -10,13 +10,10 @@
 #### H4
 ##### H5
 
-Readability
+Readability is better with a line break!
 ------------
 or
-=============
-</br>
-
-Is better with a line break! 
+============= 
 
 </br>
 
