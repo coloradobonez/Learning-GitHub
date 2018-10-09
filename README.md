@@ -10,7 +10,7 @@
 #### H4
 ##### H5
 
-Readability is better with a line break!
+Readability is cooler with a line break!
 ------------
 or
 ============= 
@@ -18,7 +18,7 @@ or
 </br>
 
 <div align="right">Align to the right.</div>
-<div align="center">You can align to center too.</div>
+<div align="center">You can align to center also.</div>
 <div align="left">Or align left.</div>
 
 <dl>
