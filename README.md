@@ -1,14 +1,19 @@
-# Learning-GitHub
+# Markdown Cheat Sheet
 
-**bold** *italics* <del>strike</del> `code` @coloradobonez
+## Table of Contents
+- [Typography](#typography)
+- [Headers](#headers) 
+
+## Typography
+Words can be **bold**, *italic*, <del>strike</del>, or `coded`. 
 
 > Block Quote
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
+## Headers
+# H1 - Titles
+## H2 - Headers
+### H3 - Smaller Headings
+#### H4 - Normal, bold text
+##### H5 - Smaller than normal
 
 Readability is cooler with a line break!
 ------------
