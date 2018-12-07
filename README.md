@@ -3,6 +3,8 @@
 ## Table of Contents
 - [Typography](#typography)
 - [Headers](#headers) 
+- [Lists](#lists)
+- [Alignment](#alignment)
 
 ## Typography
 Words can be **bold**, *italic*, <del>strike</del>, or `coded`. 
@@ -31,17 +33,21 @@ Break things down chronologically or step by step:
 3. Step Three
     1. First
         1. subpoint
+- [x] Don't forget task lists! 
+- [ ] They can come in handy to get things done. 
+
+## Alignment
+
+<div align="right">Align to the right.</div>
+<div align="center">You can align to center also.</div>
+<div align="left">Or align left.</div>
+
 
 Readability is cooler with a line break!
 ------------
 or
 ============= 
 
-</br>
-
-<div align="right">Align to the right.</div>
-<div align="center">You can align to center also.</div>
-<div align="left">Or align left.</div>
 
 <dl>
   <dt>How about a hanging indent?</dt>
@@ -61,17 +67,6 @@ But this is kind of cool.
 </details>
 </br>
 
-- lists
-  - lists
-    - lists
-1. Lists
-2. Lists
-    1. Lists
-    2. Lists
-        1. Lists
-        2. Lists
-- [x] Don't forget task lists! 
-- [ ] They can come in handy to get things done. 
 
 ```diff
 + Can only highlight green in here
