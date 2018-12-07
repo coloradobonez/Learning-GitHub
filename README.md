@@ -15,6 +15,23 @@ Words can be **bold**, *italic*, <del>strike</del>, or `coded`.
 #### H4 - Normal, bold text
 ##### H5 - Smaller than normal
 
+## Lists
+Help break up information into readable bullet points:
+- Point
+  - Subpoint
+    - subpoint
+
+Break things down chronologically: 
+1. First
+    1. Subpoint
+        1. subpoint
+2. Second
+    1. Subpoint
+        1. subpoint
+3. Third
+    1. Subpoint
+        1. subpoint
+
 Readability is cooler with a line break!
 ------------
 or
