@@ -21,15 +21,15 @@ Help break up information into readable bullet points:
   - Subpoint
     - subpoint
 
-Break things down chronologically: 
-1. First
-    1. Subpoint
+Break things down chronologically or step by step: 
+1. Step One
+    1. First
         1. subpoint
-2. Second
-    1. Subpoint
+2. Step Two
+    1. First
         1. subpoint
-3. Third
-    1. Subpoint
+3. Step Three
+    1. First
         1. subpoint
 
 Readability is cooler with a line break!
