@@ -56,15 +56,7 @@ But this is kind of cool.
 
 - Can only highlight red in here
 ```
-```diff
-+ She is happy
-- She is unhappy
-```
-```javascript
-function hello(name) {
-  console.log(name);
-}
-```
- **tabspace** You can do emojis... :neutral_face: If you're interested in that sort of thing... :laughing: 
+
+You can do emojis... :neutral_face: If you're interested in that sort of thing... :laughing: 
  
 
