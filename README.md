@@ -1,30 +1,18 @@
 # Markdown Cheat Sheet
 
 ## Table of Contents
-- [Typography](#typography)
-- [Headers](#headers) 
-- [Lists](#lists)
-- [Alignment](#alignment)
-- [Drop Down Menus](#drop-down-menus)
-- [Images and Video](#images-and-video)
-- [Tips and Tricks](#other-tips-and-tricks)
+- [Typography](typography)
+- [Headers](headers) 
+- [Lists](lists)
+- [Links](links)
+- [Alignment](alignment)
+- [Drop Down Menus](drop-down-menus)
+- [Images and Video](images-and-video)
+- [Tips and Tricks](other-tips-and-tricks)
 ## Typography
 Words can be **bold with two asteriks or two underlines**, *italic with one asterisks or one underline*, ~strike through~, or `coded`. 
 
 > You can use > for "Block Quotes"
-
-## Links
-Links can be:
-- [Inline Style](https://github.com/newshipt/TechHub) 
-- [Inline Style with Title](https://github.com/newshipt/TechHub "TechHub")
-- [Relative Reference to a Repository](../tree/master/culture) 
-- [Reference Style Link][this is a reference]
-- [Numbers Reference Style Link][1]
-- [Link to the Text Itself]
-
-[this is a reference]: https://github.com/newshipt/TechHub
-[1]: https://github.com/newshipt/TechHub
-[Link to the text itself]: https://github.com/newshipt/TechHub
 
 ## Headers
 # H1 - Titles
@@ -33,6 +21,7 @@ Links can be:
 #### H4 - Normal, bold text
 ##### H5 - Smaller than normal
 Headers 1 and 2 automatically create line breaks, but you can use dashes or equal signs to add them in as well. 
+
 ## Lists
 Help break up information into readable bullet points:
 - Point
@@ -51,6 +40,19 @@ Break things down chronologically or step by step:
         1. subpoint
 - [x] Don't forget task lists! 
 - [ ] They can come in handy to get things done. 
+
+## Links
+Links can be:
+- [Inline Style](https://github.com/newshipt/TechHub) 
+- [Inline Style with Title](https://github.com/newshipt/TechHub "TechHub")
+- [Relative Reference to a Repository](../tree/master/culture) 
+- [Reference Style Link][this is a reference]
+- [Numbers Reference Style Link][1]
+- [Link to the Text Itself]
+
+[this is a reference]: https://github.com/newshipt/TechHub
+[1]: https://github.com/newshipt/TechHub
+[Link to the text itself]: https://github.com/newshipt/TechHub
 
 ## Alignment
 
