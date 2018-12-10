@@ -11,7 +11,7 @@
 - [Tips and Tricks](#other-tips-and-tricks)
 
 ## Typography
-Words can be **bold with two asteriks or two underlines**, *italic with one asterisks or one underline*, ~strike through~, or `coded`. 
+Words can be **bold with two asteriks or two underscores**, *italic with one asterisks or one underscore*, ~strike through~, or `coded`. 
 
 > You can use > for "Block Quotes"
 
