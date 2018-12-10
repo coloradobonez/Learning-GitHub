@@ -1,14 +1,15 @@
 # Markdown Cheat Sheet
 
 ## Table of Contents
-- [Typography](typography)
-- [Headers](headers) 
-- [Lists](lists)
-- [Links](links)
-- [Alignment](alignment)
-- [Drop Down Menus](drop-down-menus)
-- [Images and Video](images-and-video)
-- [Tips and Tricks](other-tips-and-tricks)
+- [Typography](#typography)
+- [Headers](#headers) 
+- [Lists](#lists)
+- [Links](#links)
+- [Alignment](#alignment)
+- [Drop Down Menus](#drop-down-menus)
+- [Images and Video](#images-and-video)
+- [Tips and Tricks](#other-tips-and-tricks)
+
 ## Typography
 Words can be **bold with two asteriks or two underlines**, *italic with one asterisks or one underline*, ~strike through~, or `coded`. 
 
@@ -60,20 +61,6 @@ Links can be:
 <div align="center">You can align to center also.</div>
 <div align="left">Or align left.</div>
 
-
-Readability is cooler with a line break!
-------------
-or
-============= 
-
-
-<dl>
-  <dt>How about a hanging indent?</dt>
-  <dd>Good for Q&A.</dd>
-</dl>
-
-
-
 ## Drop Down Menus
 <details> <summary>Drop Down Menu</summary>
 
@@ -87,13 +74,7 @@ If you want the text to be visible but containable, open drop downs can be usefu
 </br>
 
 
-```diff
-+ Can only highlight green in here
 
-- Can only highlight red in here
-```
-
-You can do emojis... :neutral_face: If you're interested in that sort of thing... :laughing: 
  
 ## Other Tips and Tricks
 
@@ -103,7 +84,18 @@ You can do emojis... :neutral_face: If you're interested in that sort of thing..
 
 and
 #### This
-- 
+- You can do emojis :neutral_face:! If you're interested in that sort of thing :laughing:
+  - You can find more available emojis [here](https://gist.github.com/rxaviers/7360908 "Complete List of GitHub Emojis"). 
+- **Highlighting inside of inline text:** 
+```diff
++ Can only highlight green in here
 
+- Can only highlight red in here
+``` 
+- **Hanging Indents**
+<dl>
+  <dt>How about a hanging indent?</dt>
+  <dd>Good for Q&A.</dd>
+</dl>
 
 For additional reading, check out [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/). 
