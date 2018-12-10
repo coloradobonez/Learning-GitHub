@@ -6,11 +6,13 @@
 - [Lists](#lists)
 - [Alignment](#alignment)
 - [Drop Down Menus](#drop-down-menus)
+- [Images and Video](#images-and-video)
 - [Tips and Tricks](#other-tips-and-tricks)
 ## Typography
 Words can be **bold**, *italic*, <del>strike</del>, or `coded`. 
+[Words can be linked](
+> You can use > for "Block Quotes"
 
-> Block Quote
 ## Headers
 # H1 - Titles
 ## H2 - Headers
@@ -87,3 +89,6 @@ You can do emojis... :neutral_face: If you're interested in that sort of thing..
 and
 #### This
 - 
+
+
+For additional reading, check out [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/). 
