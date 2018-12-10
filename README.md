@@ -73,9 +73,60 @@ If you want the text to be visible but containable, open drop downs can be usefu
 </details>
 </br>
 
+## Inline Text & Coding
+You can change the colored and highlighted portions of the text by specifying the language. For example:
 
+HTML:
+```html 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
- 
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl> 
+```
+Ruby:
+```ruby
+  def by_tier
+    shopper_ids = shoppers_available_for_notification
+    ranks = ShopperTierRankingService.new(shopper_ids, self.by_priority, @order).driver_rankings
+
+    get_eligible_ranks(ranks)
+  end
+```
+Python:
+```python
+  def by_tier
+    shopper_ids = shoppers_available_for_notification
+    ranks = ShopperTierRankingService.new(shopper_ids, self.by_priority, @order).driver_rankings
+
+    get_eligible_ranks(ranks)
+  end
+```
+Javascript:
+```javascript
+<html>
+<body>
+
+<form>
+<input type="button" id="btn01" value="OK">
+</form>
+
+<p>Click the "Disable" button to disable the "OK" button:</p>
+
+<button onclick="disableElement()">Disable</button>
+
+<script>
+function disableElement() {
+  document.getElementById("btn01").disabled = true;
+}
+</script>
+
+</body>
+</html>
+```
+
 ## Other Tips and Tricks
 
 - Spacing is important, especially in Markdown on Github. It's the difference between:
