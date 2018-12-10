@@ -86,6 +86,16 @@ HTML:
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl> 
 ```
+You can use raw HTML in Markdown, but not everything works as [GitHub has a sanitization filter](https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb). Ex:
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl> 
+
 Ruby:
 ```ruby
   def by_tier
