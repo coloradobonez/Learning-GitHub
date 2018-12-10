@@ -89,8 +89,8 @@ HTML:
 Ruby:
 ```ruby
   def by_tier
-    shopper_ids = shoppers_available_for_notification
-    ranks = ShopperTierRankingService.new(shopper_ids, self.by_priority, @order).driver_rankings
+    ids = available
+    ranks = rankings
 
     get_eligible_ranks(ranks)
   end
@@ -98,8 +98,8 @@ Ruby:
 Python:
 ```python
   def by_tier
-    shopper_ids = shoppers_available_for_notification
-    ranks = ShopperTierRankingService.new(shopper_ids, self.by_priority, @order).driver_rankings
+    ids = available
+    ranks = rankings
 
     get_eligible_ranks(ranks)
   end
