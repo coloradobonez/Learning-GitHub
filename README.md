@@ -5,7 +5,8 @@
 - [Headers](#headers) 
 - [Lists](#lists)
 - [Alignment](#alignment)
-
+- [Drop Down Menus](#drop-down-menus)
+- [Tips and Tricks](#other-tips-and-tricks)
 ## Typography
 Words can be **bold**, *italic*, <del>strike</del>, or `coded`. 
 
@@ -56,14 +57,15 @@ or
 
 [Link](linkdotcom)
 
+## Drop Down Menus
 <details> <summary>Drop Down Menu</summary>
 
-Nothing in here matters.
+You can hide text this way or create a menu to other links and links within the document itself.
 </details>
 </br>
 <details open> <summary>Open Drop Down Menu</summary>
 
-But this is kind of cool. 
+If you want the text to be visible but containable, open drop downs can be useful. 
 </details>
 </br>
 
@@ -76,4 +78,12 @@ But this is kind of cool.
 
 You can do emojis... :neutral_face: If you're interested in that sort of thing... :laughing: 
  
+## Other Tips and Tricks
 
+- Spacing is important, especially in Markdown on Github. It's the difference between:
+
+####This 
+
+and
+#### This
+- 
