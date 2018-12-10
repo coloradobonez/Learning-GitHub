@@ -9,9 +9,22 @@
 - [Images and Video](#images-and-video)
 - [Tips and Tricks](#other-tips-and-tricks)
 ## Typography
-Words can be **bold**, *italic*, <del>strike</del>, or `coded`. 
-[Words can be linked](
+Words can be **bold with two asteriks or two underlines**, *italic with one asterisks or one underline*, ~strike through~, or `coded`. 
+
 > You can use > for "Block Quotes"
+
+## Links
+Links can be:
+- [Inline Style](https://github.com/newshipt/TechHub) 
+- [Inline Style with Title](https://github.com/newshipt/TechHub "TechHub")
+- [Relative Reference to a Repository](../tree/master/culture) 
+- [Reference Style Link][this is a reference]
+- [Numbers Reference Style Link][1]
+- [Link to the Text Itself]
+
+[this is a reference]: https://github.com/newshipt/TechHub
+[1]: https://github.com/newshipt/TechHub
+[Link to the text itself]: https://github.com/newshipt/TechHub
 
 ## Headers
 # H1 - Titles
@@ -19,7 +32,7 @@ Words can be **bold**, *italic*, <del>strike</del>, or `coded`.
 ### H3 - Smaller Headings
 #### H4 - Normal, bold text
 ##### H5 - Smaller than normal
-
+Headers 1 and 2 automatically create line breaks, but you can use dashes or equal signs to add them in as well. 
 ## Lists
 Help break up information into readable bullet points:
 - Point
@@ -57,7 +70,7 @@ or
   <dd>Good for Q&A.</dd>
 </dl>
 
-[Link](linkdotcom)
+
 
 ## Drop Down Menus
 <details> <summary>Drop Down Menu</summary>
